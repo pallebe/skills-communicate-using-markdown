@@ -23,7 +23,7 @@ var myVar = "Hello, world!";
 
 ## Listes de tâches
 
-- [x] case cochŕ
+- [x] case cochée
 - [ ] case non cochée
 
 - [ ] Repére 1
